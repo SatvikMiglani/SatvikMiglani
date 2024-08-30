@@ -1,0 +1,7 @@
+-  Hi, I’m SatvikMiglani
+-  I’m interested in acquiring a fundamental understanding of programming.
+-  I’m currently learning C and Linux.
+-  I am not currently seeking collaborations.
+-  Contact Details : satvikmiglani1310@gmail.com
+-  Pronouns: He/Him.
+-  Fun fact: I enjoy reading novels.
