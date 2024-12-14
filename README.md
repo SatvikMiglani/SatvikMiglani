@@ -1,6 +1,7 @@
 -  Hi, I’m SatvikMiglani
 -  I’m interested in acquiring a fundamental understanding of programming.
--  I’m currently learning C.
+-  I'll be posting direct files of the projects I make in the process of grasping basics of programming.
+-  I’m currently learning C and python.
 -  I am not currently seeking collaborations.
 -  Contact Details : satvikmiglani1310@gmail.com
 -  Pronouns: He/Him.
